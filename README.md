@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=fasciste&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Forensics%20Student&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=kyvran&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Forensics%20Student&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <br/>
 
@@ -13,7 +13,7 @@
  `$ cat about.txt`
 
 ```js
-const fasciste = {
+const kyvran = {
     role: "Full-Stack Developer",
     education: "Digital Forensics & IR",
     languages: ["Rust", "Python", "PHP", "JS"],
@@ -63,9 +63,9 @@ Reverse Engineering ····· Learning
     
 <br/>
 
-<a href="https://tryhackme.com/p/fasciste"><img src="https://img.shields.io/badge/TryHackMe-fasciste-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/kyvran"><img src="https://img.shields.io/badge/TryHackMe-kyvran-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/fasciste"><img src="https://img.shields.io/badge/GitHub-fasciste-58a6ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/kyvran"><img src="https://img.shields.io/badge/GitHub-kyvran-58a6ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
